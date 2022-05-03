@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcar=self.webpackChunkcar||[]).push([[928],{377:function(e,t,n){n.r(t);var l=n(294),a=n(134),c=n(444);t.default=function(){return l.createElement(a.Z,null,l.createElement("section",{className:"subpage"},l.createElement("div",{className:"container"},l.createElement("p",null,"サブページ"),l.createElement("br",null),l.createElement("br",null),l.createElement(c.rU,{to:"/"},"TOPページにもどる"))))}}}]);
+//# sourceMappingURL=component---src-pages-sub-jsx-7fdae10410afa0725823.js.map
